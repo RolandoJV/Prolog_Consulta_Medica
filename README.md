@@ -1,4 +1,3 @@
-``markdown
 # 🦟 Sistema Experto en Prolog: Diagnóstico de Dengue y Chikungunya
 
 Este es un sistema experto desarrollado en **Prolog (SWI-Prolog)** que permite diagnosticar de forma preliminar las enfermedades **dengue** y **chikungunya** a partir de síntomas reportados por un paciente. El programa también entrega recomendaciones médicas generales y específicas por síntoma, con base en guías clínicas de salud pública.
